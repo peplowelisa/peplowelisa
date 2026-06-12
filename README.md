@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=c94079&height=120&section=header&animation=fadeIn" width="100%"/>
 </div>
 
-
-
 <table>
   <tr>
     <td colspan="2" valign="middle">
