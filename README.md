@@ -13,7 +13,7 @@
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <p align="center" style="font-size: 32px; font-weight: bold;">✶ Elisa Peplow ✶</p>
+      <p align="center" style="font-size: 32px; font-weight: bold;">✶ Elisa ✶</p>
       My path isn't traditional, but it's always been about understanding people and solving puzzles. I started in Psychology and even managed my own business as a Tattoo Artist, but my curiosity naturally pulled me toward tech.<br><br>
       Now, I'm combining my human insight with technology to build practical solutions that make a real impact. I'm eager to learn, highly adaptable, and ready to connect analytical thinking with a human-centered touch.
       <br><br>
